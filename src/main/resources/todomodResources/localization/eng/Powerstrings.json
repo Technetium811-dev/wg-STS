@@ -1,0 +1,18 @@
+{
+  "${ModID}:CleanHousePower": {
+    "NAME": "Clean House",
+    "DESCRIPTIONS": [
+      "When you next end your turn with unused Energy, ALL enemies lose #b",
+      " HP."
+    ]
+  },
+  "${ModID}:MountSharpshardPower": {
+    "NAME": "Terrors of Cabin Sharpshard!",
+    "DESCRIPTIONS": [
+      "In #b",
+      " turn, add a #y",
+      " turns, add a #y",
+      " into your hand."
+    ]
+  }
+}
